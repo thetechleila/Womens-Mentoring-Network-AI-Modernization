@@ -20,7 +20,9 @@ The project will also attempt address website and marketing limitations such as:
 
 Using various convenient and cost effective/free AI integrations and platforms like Visily AI and Claude AI.
 
-⭐️  **Find out more project details from our team's proposal [here](https://docs.google.com/document/d/1x1yIWhGwszDX7PgCn4ofVuyVAkwN8kweNgA6oJSXPPk/edit?usp=sharing)** ⭐️
+⭐️  **Read more about the project from our team's proposal [here](https://docs.google.com/document/d/1x1yIWhGwszDX7PgCn4ofVuyVAkwN8kweNgA6oJSXPPk/edit?usp=sharing)** ⭐️
+
+📺  **Check out the project presentation [here](https://docs.google.com/presentation/d/1da-bEGELYlEqdavJ-qZZzi6ONnhRgpwwUqKwI5B_COM/edit?usp=sharing)** 📺
 
 All project deliverables were completed between August 4, 2025 at 6:30pm to August 6, 2025 at 5pm when the project was submitted as per the requirements of the **AI for Impact: The NonProfit Challenge Hackathon presented by [the Southwest Connecticut Tech Hub](https://cttechhub.org/) & [the Stamford Partnership](https://stamfordpartnership.org/)**
 
